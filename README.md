@@ -7,7 +7,7 @@
 <h1> Hey there! I'm Heru Permana </h1>
 
 <p align="center">
-  <img src="https://github.com/Stevanus-Christian/Stevanus-Christian/blob/main/gif.gif" width="850"/>
+  <img src="https://github.com/herupermana/README.md/blob/main/dev.png" width="850"/>
 </p>
 
 
